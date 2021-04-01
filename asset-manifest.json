@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/bootstrap_online_food_app/static/css/main.8f516a86.chunk.css",
+    "main.js": "/bootstrap_online_food_app/static/js/main.7921fe71.chunk.js",
+    "main.js.map": "/bootstrap_online_food_app/static/js/main.7921fe71.chunk.js.map",
+    "runtime-main.js": "/bootstrap_online_food_app/static/js/runtime-main.e2c202be.js",
+    "runtime-main.js.map": "/bootstrap_online_food_app/static/js/runtime-main.e2c202be.js.map",
+    "static/css/2.65af8127.chunk.css": "/bootstrap_online_food_app/static/css/2.65af8127.chunk.css",
+    "static/js/2.061115aa.chunk.js": "/bootstrap_online_food_app/static/js/2.061115aa.chunk.js",
+    "static/js/2.061115aa.chunk.js.map": "/bootstrap_online_food_app/static/js/2.061115aa.chunk.js.map",
+    "index.html": "/bootstrap_online_food_app/index.html",
+    "static/css/2.65af8127.chunk.css.map": "/bootstrap_online_food_app/static/css/2.65af8127.chunk.css.map",
+    "static/css/main.8f516a86.chunk.css.map": "/bootstrap_online_food_app/static/css/main.8f516a86.chunk.css.map",
+    "static/js/2.061115aa.chunk.js.LICENSE.txt": "/bootstrap_online_food_app/static/js/2.061115aa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e2c202be.js",
+    "static/css/2.65af8127.chunk.css",
+    "static/js/2.061115aa.chunk.js",
+    "static/css/main.8f516a86.chunk.css",
+    "static/js/main.7921fe71.chunk.js"
+  ]
+}
